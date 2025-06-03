@@ -7,7 +7,7 @@ By detecting the distance between your thumb and index finger, you can intuitive
 
 ## 📷 Preview
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-demo.gif" width="500">
+  <img src="https://github.com/amberyliang/Hand-Gesture-Volume-Controller/blob/main/demo.jpg" width="500">
 </p>
 
 ---
